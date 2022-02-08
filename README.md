@@ -17,4 +17,8 @@
 |Tree|테스트2|테스트3|
 |PQ & Dijkstra|테스트2|테스트3|
 |Bellman-Ford & Floyd-Warshall|테스트2|테스트3|
-|Map & Set & Number-Theory|테스트2|테스트3|
+|Map & Set & Number-Theory|4358번|https://www.acmicpc.net/problem/4358|
+|Map & Set & Number-Theory|2002번|https://www.acmicpc.net/problem/2002|
+|Map & Set & Number-Theory|20302번|https://www.acmicpc.net/problem/20302|
+|Map & Set & Number-Theory|16563번|https://www.acmicpc.net/problem/16563|
+|Map & Set & Number-Theory|14490번|https://www.acmicpc.net/problem/14490|
