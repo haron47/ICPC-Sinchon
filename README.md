@@ -44,7 +44,20 @@
 |Sorting & Binary-Search|2750번|https://www.acmicpc.net/problem/2750|
 |Sorting & Binary-Search|테스트2|테스트3|
 |Prefix-Sum & Two-Pointer|테스트2|테스트3|
-|Stack & Queue & Deque|테스트2|테스트3|
+|Stack & Queue & Deque|4949번|https://www.acmicpc.net/problem/4949|
+|Stack & Queue & Deque|1935번|https://www.acmicpc.net/problem/1935|
+|Stack & Queue & Deque|1158번|https://www.acmicpc.net/problem/1158|
+|Stack & Queue & Deque|1966번|https://www.acmicpc.net/problem/1966|
+|Stack & Queue & Deque|1021번|https://www.acmicpc.net/problem/1021|
+|Stack & Queue & Deque|9012번|https://www.acmicpc.net/problem/9012|
+|Stack & Queue & Deque|2504번|https://www.acmicpc.net/problem/2504|
+|Stack & Queue & Deque|1918번|https://www.acmicpc.net/problem/1918|
+|Stack & Queue & Deque|2812번|https://www.acmicpc.net/problem/2812|
+|Stack & Queue & Deque|17298번|https://www.acmicpc.net/problem/17298|
+|Stack & Queue & Deque|17299번|https://www.acmicpc.net/problem/17299|
+|Stack & Queue & Deque|1725번|https://www.acmicpc.net/problem/1725|
+|Stack & Queue & Deque|3078번|https://www.acmicpc.net/problem/3078|
+|Graph|1260번|https://www.acmicpc.net/problem/1260|
 |Graph|테스트2|테스트3|
 |Tree|테스트2|테스트3|
 |PQ & Dijkstra|11286번|https://www.acmicpc.net/problem/11286|
