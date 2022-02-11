@@ -43,6 +43,14 @@
 |Sorting & Binary-Search|2437번|https://www.acmicpc.net/problem/2437|
 |Sorting & Binary-Search|2750번|https://www.acmicpc.net/problem/2750|
 |Sorting & Binary-Search|테스트2|테스트3|
+|Prefix-Sum & Two-Pointer|11659번|https://www.acmicpc.net/problem/11659|
+|Prefix-Sum & Two-Pointer|11660번|https://www.acmicpc.net/problem/11660|
+|Prefix-Sum & Two-Pointer|2003번|https://www.acmicpc.net/problem/2003|
+|Prefix-Sum & Two-Pointer|1484번|https://www.acmicpc.net/problem/1484|
+|Prefix-Sum & Two-Pointer|1253번|https://www.acmicpc.net/problem/1253|
+|Prefix-Sum & Two-Pointer|10025번|https://www.acmicpc.net/problem/10025|
+|Prefix-Sum & Two-Pointer|20002번|https://www.acmicpc.net/problem/20002|
+|Prefix-Sum & Two-Pointer|2470번|https://www.acmicpc.net/problem/2470|
 |Prefix-Sum & Two-Pointer|테스트2|테스트3|
 |Stack & Queue & Deque|4949번|https://www.acmicpc.net/problem/4949|
 |Stack & Queue & Deque|1935번|https://www.acmicpc.net/problem/1935|
