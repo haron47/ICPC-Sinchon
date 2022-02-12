@@ -42,7 +42,6 @@
 |Sorting & Binary-Search|1448번|https://www.acmicpc.net/problem/1448|
 |Sorting & Binary-Search|2437번|https://www.acmicpc.net/problem/2437|
 |Sorting & Binary-Search|2750번|https://www.acmicpc.net/problem/2750|
-|Sorting & Binary-Search|테스트2|테스트3|
 |Prefix-Sum & Two-Pointer|11659번|https://www.acmicpc.net/problem/11659|
 |Prefix-Sum & Two-Pointer|11660번|https://www.acmicpc.net/problem/11660|
 |Prefix-Sum & Two-Pointer|2003번|https://www.acmicpc.net/problem/2003|
@@ -51,7 +50,6 @@
 |Prefix-Sum & Two-Pointer|10025번|https://www.acmicpc.net/problem/10025|
 |Prefix-Sum & Two-Pointer|20002번|https://www.acmicpc.net/problem/20002|
 |Prefix-Sum & Two-Pointer|2470번|https://www.acmicpc.net/problem/2470|
-|Prefix-Sum & Two-Pointer|테스트2|테스트3|
 |Stack & Queue & Deque|4949번|https://www.acmicpc.net/problem/4949|
 |Stack & Queue & Deque|1935번|https://www.acmicpc.net/problem/1935|
 |Stack & Queue & Deque|1158번|https://www.acmicpc.net/problem/1158|
@@ -66,6 +64,12 @@
 |Stack & Queue & Deque|1725번|https://www.acmicpc.net/problem/1725|
 |Stack & Queue & Deque|3078번|https://www.acmicpc.net/problem/3078|
 |Graph|1260번|https://www.acmicpc.net/problem/1260|
+|Graph|16953번|https://www.acmicpc.net/problem/16953|
+|Graph|1697번|https://www.acmicpc.net/problem/1697|
+|Graph|19538번|https://www.acmicpc.net/problem/19538|
+|Graph|5829번|https://www.acmicpc.net/problem/5829|
+|Graph|2606번|https://www.acmicpc.net/problem/2606|
+|Graph|1987번|https://www.acmicpc.net/problem/1987|
 |Tree|1068번|https://www.acmicpc.net/problem/1068|
 |Tree|11725번|https://www.acmicpc.net/problem/11725|
 |Tree|1991번|https://www.acmicpc.net/problem/1991|
