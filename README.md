@@ -66,8 +66,13 @@
 |Stack & Queue & Deque|1725번|https://www.acmicpc.net/problem/1725|
 |Stack & Queue & Deque|3078번|https://www.acmicpc.net/problem/3078|
 |Graph|1260번|https://www.acmicpc.net/problem/1260|
-|Graph|테스트2|테스트3|
-|Tree|테스트2|테스트3|
+|Tree|1068번|https://www.acmicpc.net/problem/1068|
+|Tree|11725번|https://www.acmicpc.net/problem/11725|
+|Tree|1991번|https://www.acmicpc.net/problem/1991|
+|Tree|5639번|https://www.acmicpc.net/problem/5639|
+|Tree|1967번|https://www.acmicpc.net/problem/1967|
+|Tree|2263번|https://www.acmicpc.net/problem/2263|
+|Tree|4256번|https://www.acmicpc.net/problem/4256|
 |PQ & Dijkstra|11286번|https://www.acmicpc.net/problem/11286|
 |PQ & Dijkstra|11000번|https://www.acmicpc.net/problem/11000|
 |PQ & Dijkstra|1753번|https://www.acmicpc.net/problem/1753|
