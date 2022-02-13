@@ -70,6 +70,7 @@
 |Graph|5829번|https://www.acmicpc.net/problem/5829|
 |Graph|2606번|https://www.acmicpc.net/problem/2606|
 |Graph|1987번|https://www.acmicpc.net/problem/1987|
+|Graph|22865번|https://www.acmicpc.net/problem/22865|
 |Tree|1068번|https://www.acmicpc.net/problem/1068|
 |Tree|11725번|https://www.acmicpc.net/problem/11725|
 |Tree|1991번|https://www.acmicpc.net/problem/1991|
