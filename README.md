@@ -31,6 +31,7 @@
 |DP|1463번|https://www.acmicpc.net/problem/1463|
 |DP|1757번|https://www.acmicpc.net/problem/1757|
 |DP|20500번|https://www.acmicpc.net/problem/20500|
+|DP|21555번|https://www.acmicpc.net/problem/21555|
 |Sorting & Binary-Search|2750번|https://www.acmicpc.net/problem/2750|
 |Sorting & Binary-Search|11931번|https://www.acmicpc.net/problem/11931|
 |Sorting & Binary-Search|1920번|https://www.acmicpc.net/problem/1920|
