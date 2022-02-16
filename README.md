@@ -24,6 +24,7 @@
 |Bruteforce & Backtracking|9663번|https://www.acmicpc.net/problem/9663|
 |Bruteforce & Backtracking|2580번|https://www.acmicpc.net/problem/2580|
 |Bruteforce & Backtracking|15657번|https://www.acmicpc.net/problem/15657|
+|Bruteforce & Backtracking|모의고사|https://programmers.co.kr/learn/courses/30/lessons/42840|
 |DP|14494번|https://www.acmicpc.net/problem/14494|
 |DP|12865번|https://www.acmicpc.net/problem/12865|
 |DP|2748번|https://www.acmicpc.net/problem/2748|
