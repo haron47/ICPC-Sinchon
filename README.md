@@ -44,6 +44,7 @@
 |백준|20500번|https://www.acmicpc.net/problem/20500|
 |백준|21555번|https://www.acmicpc.net/problem/21555|
 |백준|16568번|https://www.acmicpc.net/problem/16568|
+|백준|2579번|https://www.acmicpc.net/problem/2579|
 
 ### Sorting & Binary-Search
 |플랫폼|문제|링크|
