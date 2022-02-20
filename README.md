@@ -29,6 +29,7 @@
 |백준|9663번|https://www.acmicpc.net/problem/9663|
 |백준|2580번|https://www.acmicpc.net/problem/2580|
 |백준|15657번|https://www.acmicpc.net/problem/15657|
+|백준|17136번|https://www.acmicpc.net/problem/17136|
 |프로그래머스|모의고사|https://programmers.co.kr/learn/courses/30/lessons/42840|
 |프로그래머스|소수 찾기|https://programmers.co.kr/learn/courses/30/lessons/42839|
 
