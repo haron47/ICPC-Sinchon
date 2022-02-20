@@ -45,6 +45,8 @@
 |백준|21555번|https://www.acmicpc.net/problem/21555|
 |백준|16568번|https://www.acmicpc.net/problem/16568|
 |백준|2579번|https://www.acmicpc.net/problem/2579|
+|백준|1003번|https://www.acmicpc.net/problem/1003|
+|백준|1005번|https://www.acmicpc.net/problem/1005|
 
 ### Sorting & Binary-Search
 |플랫폼|문제|링크|
@@ -60,6 +62,7 @@
 |백준|1448번|https://www.acmicpc.net/problem/1448|
 |백준|2437번|https://www.acmicpc.net/problem/2437|
 |백준|2750번|https://www.acmicpc.net/problem/2750|
+|백준|1302번|https://www.acmicpc.net/problem/1302|
 
 ### Prefix-Sum & Two-Pointer
 |플랫폼|문제|링크|
@@ -112,6 +115,7 @@
 |백준|1967번|https://www.acmicpc.net/problem/1967|
 |백준|2263번|https://www.acmicpc.net/problem/2263|
 |백준|4256번|https://www.acmicpc.net/problem/4256|
+|백준|1167번|https://www.acmicpc.net/problem/1167|
 
 ### PQ & Dijkstra
 |플랫폼|문제|링크|
