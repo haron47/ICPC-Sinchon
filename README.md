@@ -32,6 +32,7 @@
 |백준|17136번|https://www.acmicpc.net/problem/17136|
 |프로그래머스|모의고사|https://programmers.co.kr/learn/courses/30/lessons/42840|
 |프로그래머스|소수 찾기|https://programmers.co.kr/learn/courses/30/lessons/42839|
+|프로그래머스|카펫|https://programmers.co.kr/learn/courses/30/parts/12230|
 
 ### DP
 |플랫폼|문제|링크|
@@ -94,7 +95,7 @@
 |백준|1725번|https://www.acmicpc.net/problem/1725|
 |백준|3078번|https://www.acmicpc.net/problem/3078|
 
-### Graph
+### Graph & DFS & BFS
 |플랫폼|문제|링크|
 |------|---|---|
 |백준|1260번|https://www.acmicpc.net/problem/1260|
@@ -105,6 +106,9 @@
 |백준|2606번|https://www.acmicpc.net/problem/2606|
 |백준|1987번|https://www.acmicpc.net/problem/1987|
 |백준|22865번|https://www.acmicpc.net/problem/22865|
+|프로그래머스|타겟 넘버|https://programmers.co.kr/learn/courses/30/lessons/43165|
+|프로그래머스|네트워크|https://programmers.co.kr/learn/courses/30/lessons/43162|
+|프로그래머스|단어 변환|https://programmers.co.kr/learn/courses/30/lessons/43163|
 
 ### Tree
 |플랫폼|문제|링크|
