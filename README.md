@@ -94,6 +94,7 @@
 |백준|17299번|https://www.acmicpc.net/problem/17299|
 |백준|1725번|https://www.acmicpc.net/problem/1725|
 |백준|3078번|https://www.acmicpc.net/problem/3078|
+|프로그래머스|기능개발|https://programmers.co.kr/learn/courses/30/lessons/42586|
 
 ### Graph & DFS & BFS
 |플랫폼|문제|링크|
@@ -110,6 +111,7 @@
 |프로그래머스|네트워크|https://programmers.co.kr/learn/courses/30/lessons/43162|
 |프로그래머스|단어 변환|https://programmers.co.kr/learn/courses/30/lessons/43163|
 |프로그래머스|여행경로|https://programmers.co.kr/learn/courses/30/lessons/43164|
+|프로그래머스|N으로 표현|https://programmers.co.kr/learn/courses/30/lessons/42895|
 
 ### Tree
 |플랫폼|문제|링크|
