@@ -49,6 +49,8 @@
 |백준|2579번|https://www.acmicpc.net/problem/2579|
 |백준|1003번|https://www.acmicpc.net/problem/1003|
 |백준|1005번|https://www.acmicpc.net/problem/1005|
+|프로그래머스|정수 삼각형|https://programmers.co.kr/learn/courses/30/lessons/43105|
+|프로그래머스|N으로 표현|https://programmers.co.kr/learn/courses/30/lessons/42895|
 
 ### Sorting & Binary-Search
 |플랫폼|문제|링크|
