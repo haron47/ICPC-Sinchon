@@ -193,3 +193,11 @@
 |프로그래머스|동명 동물 수 찾기|https://programmers.co.kr/learn/courses/30/lessons/59041|
 |프로그래머스|입양 시각 구하기(1)|https://programmers.co.kr/learn/courses/30/lessons/59412|
 |프로그래머스|입양 시각 구하기(2)|https://programmers.co.kr/learn/courses/30/lessons/59413|
+
+### JOIN
+|플랫폼|문제|링크|
+|------|---|---|
+|프로그래머스|없어진 기록 찾기|https://programmers.co.kr/learn/courses/30/lessons/59042|
+|프로그래머스|있었는데요 없었습니다|https://programmers.co.kr/learn/courses/30/lessons/59043|
+|프로그래머스|오랜 기간 보호한 동물(1)|https://programmers.co.kr/learn/courses/30/lessons/59044|
+|프로그래머스|보호소에서 중성화한 동물|https://programmers.co.kr/learn/courses/30/lessons/59045|
