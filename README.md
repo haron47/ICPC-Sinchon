@@ -163,3 +163,33 @@
 |벡준|16563번|https://www.acmicpc.net/problem/16563|
 |벡준|14490번|https://www.acmicpc.net/problem/14490|
 |벡준|1978번|https://www.acmicpc.net/problem/1978|
+
+
+## SQL
+
+### SELECT
+|플랫폼|문제|링크|
+|------|---|---|
+|프로그래머스|모든 레코드 조회|https://programmers.co.kr/learn/courses/30/lessons/59034|
+|프로그래머스|역순 정렬하기|https://programmers.co.kr/learn/courses/30/lessons/59035|
+|프로그래머스|아픈 동물찾기|https://programmers.co.kr/learn/courses/30/lessons/59036|
+|프로그래머스|어린 동물찾기|https://programmers.co.kr/learn/courses/30/lessons/59037|
+|프로그래머스|동물의 아이디와 이름|https://programmers.co.kr/learn/courses/30/lessons/59403|
+|프로그래머스|여러 기준으로 정렬하기|https://programmers.co.kr/learn/courses/30/lessons/59404|
+|프로그래머스|상위 n개 레코드|https://programmers.co.kr/learn/courses/30/lessons/59405|
+
+### SUM, MAX, MIN
+|플랫폼|문제|링크|
+|------|---|---|
+|프로그래머스|최댓값 구하기|https://programmers.co.kr/learn/courses/30/lessons/59415|
+|프로그래머스|최솟값 구하기|https://programmers.co.kr/learn/courses/30/lessons/59038|
+|프로그래머스|동물수 구하기|https://programmers.co.kr/learn/courses/30/lessons/59406|
+|프로그래머스|중복 제거하기|https://programmers.co.kr/learn/courses/30/lessons/59408|
+
+### GROUP BY
+|플랫폼|문제|링크|
+|------|---|---|
+|프로그래머스|고양이와 개는 몇 마리 있을까|https://programmers.co.kr/learn/courses/30/lessons/59040|
+|프로그래머스|동명 동물 수 찾기|https://programmers.co.kr/learn/courses/30/lessons/59041|
+|프로그래머스|입양 시각 구하기(1)|https://programmers.co.kr/learn/courses/30/lessons/59412|
+|프로그래머스|입양 시각 구하기(2)|https://programmers.co.kr/learn/courses/30/lessons/59413|
