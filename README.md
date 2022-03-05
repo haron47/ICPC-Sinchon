@@ -18,6 +18,9 @@
 |백준|1080번|https://www.acmicpc.net/problem/1080|
 |백준|16288번|https://www.acmicpc.net/problem/16288|
 |백준|11399번|https://www.acmicpc.net/problem/11399|
+|백준|12931번|https://www.acmicpc.net/problem/12931|
+|백준|11047번|https://www.acmicpc.net/problem/11047|
+|백준|13904번|https://www.acmicpc.net/problem/13904|
 |프로그래머스|체육복|https://programmers.co.kr/learn/courses/30/lessons/42862|
 |프로그래머스|큰 수 만들기|https://programmers.co.kr/learn/courses/30/lessons/42883|
 |프로그래머스|구명보트|https://programmers.co.kr/learn/courses/30/lessons/42885|
@@ -56,6 +59,7 @@
 |백준|9095번|https://www.acmicpc.net/problem/9095|
 |백준|11726번|https://www.acmicpc.net/problem/11726|
 |백준|1149번|https://www.acmicpc.net/problem/1149|
+|백준|12865번|https://www.acmicpc.net/problem/12865|
 |프로그래머스|정수 삼각형|https://programmers.co.kr/learn/courses/30/lessons/43105|
 |프로그래머스|N으로 표현|https://programmers.co.kr/learn/courses/30/lessons/42895|
 |프로그래머스|등굣길|https://programmers.co.kr/learn/courses/30/lessons/42898|
@@ -89,6 +93,7 @@
 |백준|10025번|https://www.acmicpc.net/problem/10025|
 |백준|20002번|https://www.acmicpc.net/problem/20002|
 |백준|2470번|https://www.acmicpc.net/problem/2470|
+|백준|1806번|https://www.acmicpc.net/problem/1806|
 
 ### Stack & Queue & Deque
 |플랫폼|문제|링크|
@@ -106,6 +111,7 @@
 |백준|17299번|https://www.acmicpc.net/problem/17299|
 |백준|1725번|https://www.acmicpc.net/problem/1725|
 |백준|3078번|https://www.acmicpc.net/problem/3078|
+|백준|2252번|https://www.acmicpc.net/problem/2252|
 |프로그래머스|기능개발|https://programmers.co.kr/learn/courses/30/lessons/42586|
 
 ### Graph & DFS & BFS
