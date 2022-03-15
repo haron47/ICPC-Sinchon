@@ -21,6 +21,7 @@
 |백준|12931번|https://www.acmicpc.net/problem/12931|
 |백준|11047번|https://www.acmicpc.net/problem/11047|
 |백준|13904번|https://www.acmicpc.net/problem/13904|
+|백준|1012번|https://www.acmicpc.net/problem/1012|
 |프로그래머스|체육복|https://programmers.co.kr/learn/courses/30/lessons/42862|
 |프로그래머스|큰 수 만들기|https://programmers.co.kr/learn/courses/30/lessons/42883|
 |프로그래머스|구명보트|https://programmers.co.kr/learn/courses/30/lessons/42885|
@@ -64,6 +65,7 @@
 |백준|2293번|https://www.acmicpc.net/problem/2293|
 |백준|11057번|https://www.acmicpc.net/problem/11057|
 |백준|10844번|https://www.acmicpc.net/problem/10844|
+|백준|2225번|https://www.acmicpc.net/problem/2225|
 |프로그래머스|정수 삼각형|https://programmers.co.kr/learn/courses/30/lessons/43105|
 |프로그래머스|N으로 표현|https://programmers.co.kr/learn/courses/30/lessons/42895|
 |프로그래머스|등굣길|https://programmers.co.kr/learn/courses/30/lessons/42898|
