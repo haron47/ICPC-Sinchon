@@ -66,6 +66,7 @@
 |백준|11057번|https://www.acmicpc.net/problem/11057|
 |백준|10844번|https://www.acmicpc.net/problem/10844|
 |백준|2225번|https://www.acmicpc.net/problem/2225|
+|백준|1309번|https://www.acmicpc.net/problem/1309|
 |프로그래머스|정수 삼각형|https://programmers.co.kr/learn/courses/30/lessons/43105|
 |프로그래머스|N으로 표현|https://programmers.co.kr/learn/courses/30/lessons/42895|
 |프로그래머스|등굣길|https://programmers.co.kr/learn/courses/30/lessons/42898|
@@ -131,6 +132,7 @@
 |백준|2606번|https://www.acmicpc.net/problem/2606|
 |백준|1987번|https://www.acmicpc.net/problem/1987|
 |백준|22865번|https://www.acmicpc.net/problem/22865|
+|백준|2206번|https://www.acmicpc.net/problem/2206|
 |프로그래머스|타겟 넘버|https://programmers.co.kr/learn/courses/30/lessons/43165|
 |프로그래머스|네트워크|https://programmers.co.kr/learn/courses/30/lessons/43162|
 |프로그래머스|단어 변환|https://programmers.co.kr/learn/courses/30/lessons/43163|
