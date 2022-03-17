@@ -101,6 +101,7 @@
 |백준|20002번|https://www.acmicpc.net/problem/20002|
 |백준|2470번|https://www.acmicpc.net/problem/2470|
 |백준|1806번|https://www.acmicpc.net/problem/1806|
+|백준|24552번|https://www.acmicpc.net/problem/24552|
 
 ### Stack & Queue & Deque
 |플랫폼|문제|링크|
